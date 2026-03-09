@@ -1,9 +1,10 @@
-scikit-learn
+streamlit
 pandas
 numpy
-streamlit
+scikit-learn
 matplotlib
 seaborn
-shap
 plotly
-fpdf
+shap
+lifelines
+scipy
